@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitakatariya&label=Profile%20views&color=0e75b6&style=flat" alt="harshitakatariya" /> </p>
 
-- 🔭 I’m currently working on **Blog Application**
+- 🔭 I’m currently working on **Expense Tracker**
 
 - 🌱 I’m currently learning **Next.js, Exploring Web3**
 
